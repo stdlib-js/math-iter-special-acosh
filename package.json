@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/math-iter-special-acosh",
+  "version": "0.0.0",
+  "description": "Create an iterator which computes the hyperbolic arccosine of each iterated value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-acosh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.acosh",
+    "acosh",
+    "hyperbolic",
+    "inverse",
+    "cosine",
+    "cos",
+    "arc",
+    "arccosine",
+    "trig",
+    "trigonometry",
+    "radians",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
